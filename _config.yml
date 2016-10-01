@@ -15,4 +15,4 @@ twitter_username: ""
 github_username:  ectomlin
 
 # Build settings
-markdown: ""
+markdown: kramdown
