@@ -6,4 +6,8 @@ categories: ["Assignments"]
 author: "Eric Tomlinson"
 ---
 
+<<<<<<< HEAD
 <h2> Assignment 2 </h2>
+=======
+dfdgdfgfd
+>>>>>>> testing
