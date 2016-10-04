@@ -7,4 +7,3 @@ author: "Eric Tomlinson"
 ---
 
 <h2> Assignment 2 </h2>
-
