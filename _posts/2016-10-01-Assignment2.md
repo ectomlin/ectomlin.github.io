@@ -2,7 +2,7 @@
 layout: post
 title:  "Assignment 2"
 date:   2016-09-26 19:45:31 +0530
-categories: ["Assignments"]
+categories: Assignments
 author: "Eric Tomlinson"
 ---
 
@@ -18,7 +18,7 @@ commands that we have used the most have been
 <ul>
 <li>pwd</li>
 <li>ls</li>
-<li>cd</lo>
+<li>cd</li>
 </ul>
 <br>
 pwd tells us our working directory, ls lists the files in the working directory and cd
