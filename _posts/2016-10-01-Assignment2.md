@@ -24,18 +24,19 @@ commands that we have used the most have been</p>
 <p>pwd tells us our working directory, ls lists the files in the working directory and cd
 changes our working directory.</p>
 
-<h3><strong><a href="https://rogerdudler.github.io/git-guide/">Git</a>/<a hred="https://guides.github.com/activities/hello-world/">GITHUB</a></strong></h3>
-<p>Git is a version control system that allows us to track our changes and manage workflow. Git 
+<h3 style="color:black"><strong><a href="https://rogerdudler.github.io/git-guide/">Git</a>/<a hred="https://guides.github.com/activities/hello-world/">GITHUB</a></strong></h3>
+<p style="color:black">Git is a version control system that allows us to track our changes and manage workflow. Git 
 has multiple usages including a branching system that allows you to develop isolated features. Github
 is a site that allows you to host your repositories while encouraging collaboration.</p>
-<h3 style="color:black"><strong><a href="http://packetlife.net/media/library/16/Markdown.pdf">Markdown</a></strong></h3>
-<p style="color:black">Markdown is a markup language that allows you to write in a plain text format that can
+
+<h3><strong><a href="http://packetlife.net/media/library/16/Markdown.pdf">Markdown</a></strong></h3>
+<p>Markdown is a markup language that allows you to write in a plain text format that can
 be converted into other markup languages such as HTML, which is the way I am using it. Through Markdown
 things are made easier. For example, in Markdown text is automatically converted into
 paragraphs and are separated by a blank line. It eliminates the need to manually add page breaks every line.</p>
 
-<h3><strong><a href="http://websitesetup.org/HTML5-cheat-sheet.pdf">HTML5</a></strong></h3>
-<p>HTML is a standard markup language used in creating webpages. It stands for Hyper Text Markup Language 
+<h3 style="color:black"><strong><a href="http://websitesetup.org/HTML5-cheat-sheet.pdf">HTML5</a></strong></h3>
+<p style="color:black">HTML is a standard markup language used in creating webpages. It stands for Hyper Text Markup Language 
 and describes the structure of a webpage. Webpages are built off of elements which are represented
 as tags through HTML. These tags are not displayed in the browser but are what the browser uses
 to know how to build the webpage. Example of these tags include</p>
@@ -47,8 +48,8 @@ to know how to build the webpage. Example of these tags include</p>
 </ul>
 <p>Through the use of these tags we are able to manipulate the structure of each webpage using HTML.</p>
 
-<h3 style="color:black"><strong>Reflection</strong></h3>
-<p style="color:black">Having no previous experience with any of these resources before this class has made this first assignment
+<h3><strong>Reflection</strong></h3>
+<p>Having no previous experience with any of these resources before this class has made this first assignment
 both difficult and rewarding. It was difficult because it took me a while to fully explore and understand
 the power that these resources such as git held and how I could use them. But it was also rewarding in that
 when I put in time trying to figure out just how to make something work, such as adding a picture to my post, 
