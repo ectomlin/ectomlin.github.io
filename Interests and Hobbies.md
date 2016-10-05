@@ -1,7 +1,7 @@
 ---
 layout: page
-title : Intrests & Hobbies
-permalink: /Intrests & Hobbies/
+title : Interests and Hobbies
+permalink: /Interests and Hobbies/
 ---
 
 
