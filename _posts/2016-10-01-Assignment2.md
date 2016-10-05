@@ -7,7 +7,7 @@ author: "Eric Tomlinson"
 excerpt_separator: <!--more-->
 ---
 
-<p>My first post recapping what I have learned so far in IDST161</p>
+<p>My first post for Assignment 2 recapping what I have learned so far in IDST161</p>
 
 <!--more-->
 
