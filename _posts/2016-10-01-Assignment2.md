@@ -42,4 +42,13 @@ things are made easier. For example, in Markdown text is automatically converted
 paragraphs and are separated by a blank line. It eliminates the need to add "<br>" every line.</p>
 
 <h3>HTML5</h3>
-<p>
+<p>HTML is a standard markup language used in creating webpages. It stands for Hyper Text Markup Language 
+and describes the structure of a webpage. Webpages are built off of elements which are represented
+as tags through HTML. These tags are not displayed in the browser but are what the browser uses
+to know how to build the webpage. Example of these tags include</p>
+<ul><li>"<html>"</li>
+<li>"<body>"</li>
+<li>"<title>"</li>
+<li>"<p>"</li>
+<p>Through the use of these tags we are able to manipulate the structure of each webpage using HTML.<p>
+
