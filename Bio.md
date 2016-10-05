@@ -5,7 +5,7 @@ permalink: /Biography/
 ---
 
 
-<h1>Biograhy</h1>
+<h1><strong>Biograhy</strong></h1>
 <body>
 
 <p> My name is Eric Tomlinson and I am from Raleigh, NC. However, I grew up in 
@@ -13,7 +13,7 @@ Louisburg, NC on a horse farm with my three older brothers. I lived in Louisburg
 for 14 years until my family bought a house in Raleigh so we could be closer to 
 school. We had always gone to school in Raleigh but living in Louisburg required
  us to drive an hour each way to get there. Once we moved school was only a few
- minutes away. </p>
+ minutes away.</p>
  
  <p> In highshool I enjoyed playing varsity soccer as well as track and field.
  In soccer I was played the postion of striker and was a team captain my junior

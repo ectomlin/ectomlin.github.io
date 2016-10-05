@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 <!--more-->
 
-<p> Since I first began IDST 161 I have come a long way from where I began. However, seeing as
+<p style="color:black"> Since I first began IDST 161 I have come a long way from where I began. However, seeing as
 I started with no coding experience at all any progress is positive. Since I first began 
 I have learned about the command line, git/github, markdown, HTML, CSS and more. In this blog
 post I will go over some of these topics and explain them as I have understood them.</p>
@@ -28,8 +28,8 @@ changes our working directory.</p>
 <p>Git is a version control system that allows us to track our changes and manage workflow. Git 
 has multiple usages including a branching system that allows you to develop isolated features. Github
 is a site that allows you to host your repositories while encouraging collaboration.</p>
-<h3><strong><a href="http://packetlife.net/media/library/16/Markdown.pdf">Markdown</a></strong></h3>
-<p>Markdown is a markup language that allows you to write in a plain text format that can
+<h3 style="color:black"><strong><a href="http://packetlife.net/media/library/16/Markdown.pdf">Markdown</a></strong></h3>
+<p style="color:black">Markdown is a markup language that allows you to write in a plain text format that can
 be converted into other markup languages such as HTML, which is the way I am using it. Through Markdown
 things are made easier. For example, in Markdown text is automatically converted into
 paragraphs and are separated by a blank line. It eliminates the need to manually add page breaks every line.</p>
@@ -47,9 +47,8 @@ to know how to build the webpage. Example of these tags include</p>
 </ul>
 <p>Through the use of these tags we are able to manipulate the structure of each webpage using HTML.</p>
 
-<h3><strong>Reflection</strong></h3>
-
-<p>Having no previous experience with any of these resources before this class has made this first assignment
+<h3 style="color:black"><strong>Reflection</strong></h3>
+<p style="color:black">Having no previous experience with any of these resources before this class has made this first assignment
 both difficult and rewarding. It was difficult because it took me a while to fully explore and understand
 the power that these resources such as git held and how I could use them. But it was also rewarding in that
 when I put in time trying to figure out just how to make something work, such as adding a picture to my post, 
