@@ -6,10 +6,6 @@ categories: Assignments
 author: "Eric Tomlinson"
 excerpt_separator: <!--more-->
 ---
-
-
-<p>My first post for Assignment 2 recapping what I have learned so far in IDST161</p>
-
 <!--more-->
 
 <p> Since I first began IDST 161 I have come a long way from where I began. However, seeing as
@@ -28,7 +24,7 @@ commands that we have used the most have been</p>
 <p>pwd tells us our working directory, ls lists the files in the working directory and cd
 changes our working directory.</p>
 
-<h3><strong>Git/GITHUB</strong></h3>
+<h3><strong><a href="https://rogerdudler.github.io/git-guide/">Git</a>/<a hred="https://guides.github.com/activities/hello-world/">GITHUB</a></strong></h3>
 <p>Git is a version control system that allows us to track our changes and manage workflow. Git 
 has multiple usages including a branching system that allows you to develop isolated features. Github
 is a site that allows you to host your repositories while encouraging collaboration.</p>
