@@ -7,6 +7,7 @@ author: "Eric Tomlinson"
 excerpt_separator: <!--more-->
 ---
 
+
 <p>My first post for Assignment 2 recapping what I have learned so far in IDST161</p>
 
 <!--more-->
@@ -57,3 +58,5 @@ the power that these resources such as git held and how I could use them. But it
 when I put in time trying to figure out just how to make something work, such as adding a picture to my post, 
 I gain a sense of satisfaction once I finally get it to work. I have enjoyed working with this code up to this 
 point and I look forward to moving forward.</p>
+
+<p>A way that I would test my html code while fiddling around with it was with this tester</p>
