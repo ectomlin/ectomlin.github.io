@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 I started with no coding experience at all any progress is positive. Since I first began 
 I have learned about the command line, git/github, markdown, HTML, CSS and more. In this blog
 post I will go over some of these topics and explain them as I have understood them.</p>
-<h3><strong>Command Line</strong></h3>
+<h3><strong><a href="/assets/the shell.html">Command Line</a></strong></h3>
 <p> Through a terminal we are able to access the SHELL which is an interface for the command line.
 By typing in the command line we can navigate and pull information quickly from the shell. The three
 commands that we have used the most have been</p>
@@ -62,4 +62,4 @@ point and I look forward to moving forward.</p>
 
 <p>A way that I would test my html code while fiddling around with it was with this tester.</p>
 
-<iframe src="/assets/HTML tester.html" height="600" width="400"></iframe>
+<iframe src="/assets/HTML tester.html" height="500" width="400"></iframe>
