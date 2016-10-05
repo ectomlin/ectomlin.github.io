@@ -4,4 +4,5 @@ title : Intrests & Hobbies
 permalink: /Intrests & Hobbies/
 ---
 
-Coming Soon...
+
+<h1>Coming Soon...</h1>
