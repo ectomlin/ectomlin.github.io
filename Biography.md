@@ -32,4 +32,3 @@ school. We had always gone to school in Raleigh but living in Louisburg required
  the acclimate to the UNC community.</p>
  
  </body>
- 
