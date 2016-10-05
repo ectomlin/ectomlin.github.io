@@ -28,13 +28,13 @@ changes our working directory.</p>
 <p>Git is a version control system that allows us to track our changes and manage workflow. Git 
 has multiple usages including a branching system that allows you to develop isolated features. Github
 is a site that allows you to host your repositories while encouraging collaboration.</p>
-<h3><strong>Markdown</strong></h3>
+<h3><strong><a href="http://packetlife.net/media/library/16/Markdown.pdf">Markdown</a></strong></h3>
 <p>Markdown is a markup language that allows you to write in a plain text format that can
 be converted into other markup languages such as HTML, which is the way I am using it. Through Markdown
 things are made easier. For example, in Markdown text is automatically converted into
 paragraphs and are separated by a blank line. It eliminates the need to manually add page breaks every line.</p>
 
-<h3><strong>HTML5</strong></h3>
+<h3><strong><a href="http://websitesetup.org/HTML5-cheat-sheet.pdf">HTML5</a></strong></h3>
 <p>HTML is a standard markup language used in creating webpages. It stands for Hyper Text Markup Language 
 and describes the structure of a webpage. Webpages are built off of elements which are represented
 as tags through HTML. These tags are not displayed in the browser but are what the browser uses
