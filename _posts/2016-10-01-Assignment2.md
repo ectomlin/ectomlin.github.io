@@ -19,36 +19,41 @@ post I will go over some of these topics and explain them as I have understood t
 <p> Through a terminal we are able to access the SHELL which is an interface for the command line.
 By typing in the command line we can navigate and pull information quickly from the shell. The three
 commands that we have used the most have been</p>
-<br>
 <ul>
 <li>pwd</li>
 <li>ls</li>
 <li>cd</li>
 </ul>
-<br>
 <p>pwd tells us our working directory, ls lists the files in the working directory and cd
 changes our working directory.</p>
-<br>
+
 <h3><strong>Git/GITHUB</strong></h3>
 <p>Git is a version control system that allows us to track our changes and manage workflow. Git 
-has multiple usages including a branching system that allows you develope isolated features. Github
-is a site that allows you to host your repositories while incourageing collaboration.</p>
-<br>
+has multiple usages including a branching system that allows you to develop isolated features. Github
+is a site that allows you to host your repositories while encouraging collaboration.</p>
 <h3><strong>Markdown</strong></h3>
-<br>
 <p>Markdown is a markup language that allows you to write in a plain text format that can
 be converted into other markup languages such as HTML, which is the way I am using it. Through Markdown
 things are made easier. For example, in Markdown text is automatically converted into
 paragraphs and are separated by a blank line. It eliminates the need to add "<br>" every line.</p>
 
-<h3>HTML5</h3>
+<h3><strong>HTML5</strong></h3>
 <p>HTML is a standard markup language used in creating webpages. It stands for Hyper Text Markup Language 
 and describes the structure of a webpage. Webpages are built off of elements which are represented
 as tags through HTML. These tags are not displayed in the browser but are what the browser uses
 to know how to build the webpage. Example of these tags include</p>
-<ul><li>"<html>"</li>
-<li>"<body>"</li>
-<li>"<title>"</li>
-<li>"<p>"</li>
-<p>Through the use of these tags we are able to manipulate the structure of each webpage using HTML.<p>
+<ul>
+<li>html</li>
+<li>body</li>
+<li>title>/li>
+<li>p</li>
+<p>Through the use of these tags we are able to manipulate the structure of each webpage using HTML.</p>
 
+<h3><strong>Reflection</strong></h3>
+
+<p>Having no previous experience with any of these resources before this class has made this first assignment
+both difficult and rewarding. It was difficult because it took me a while to fully explore and understand
+the power that these resources such as git held and how I could use them. But it was also rewarding in that
+when I put in time trying to figure out just how to make something work, such as adding a picture to my post, 
+I gain a sense of satisfaction once I finally get it to work. I have enjoyed working with this code up to this 
+point and I look forward to moving forward.</p>
