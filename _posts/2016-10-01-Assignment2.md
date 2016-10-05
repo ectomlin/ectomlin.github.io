@@ -59,6 +59,6 @@ when I put in time trying to figure out just how to make something work, such as
 I gain a sense of satisfaction once I finally get it to work. I have enjoyed working with this code up to this 
 point and I look forward to moving forward.</p>
 
-<p>A way that I would test my html code while fiddling around with it was with this tester</p>
+<p>A way that I would test my html code while fiddling around with it was with this tester.</p>
 
 <iframe src="/assets/HTML tester.html" height="600" width="400"></iframe>
