@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Assignment 2"
+title:  "IDST 161 Assignment 2"
 date:   2016-09-26 19:45:31 +0530
 categories: Assignments
 author: "Eric Tomlinson"
 excerpt_separator: <!--more-->
 ---
-<!--more-->
+
 
 <p> Since I first began IDST 161 I have come a long way from where I began. However, seeing as
 I started with no coding experience at all any progress is positive. Since I first began 
 I have learned about the command line, git/github, markdown, HTML, CSS and more. In this blog
-post I will go over some of these topics and explain them as I have understood them.</p>
+post I will go over some of these topics and explain them as I have understood them.</p> <!--more-->
 <h3><strong><a href="/assets/the shell.html">Command Line</a></strong></h3>
 <p> Through a terminal we are able to access the SHELL which is an interface for the command line.
 By typing in the command line we can navigate and pull information quickly from the shell. The three
