@@ -45,7 +45,7 @@ to know how to build the webpage. Example of these tags include</p>
 <ul>
 <li>html</li>
 <li>body</li>
-<li>title>/li>
+<li>title</li>
 <li>p</li>
 <p>Through the use of these tags we are able to manipulate the structure of each webpage using HTML.</p>
 
