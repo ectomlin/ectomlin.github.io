@@ -4,7 +4,12 @@ title:  "Assignment 2"
 date:   2016-09-26 19:45:31 +0530
 categories: Assignments
 author: "Eric Tomlinson"
+excerpt_separator: <!--more-->
 ---
+
+<p>My first post recapping what I have learned so far in IDST161</p>
+
+<!--more-->
 
 <p> Since I first began IDST 161 I have come a long way from where I began. However, seeing as
 I started with no coding experience at all, that does not mean much. Since I first began 
