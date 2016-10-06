@@ -39,7 +39,7 @@ paragraphs and are separated by a blank line. It eliminates the need to manually
 <p>HTML is a standard markup language used in creating webpages. It stands for Hyper Text Markup Language 
 and describes the structure of a webpage. Webpages are built off of elements which are represented
 as tags through HTML. These tags are not displayed in the browser but are what the browser uses
-to know how to build the webpage. Example of these tags include</p>
+to know how to build the webpage. Examples of these tags include</p>
 <ul>
 <li>html</li>
 <li>body</li>
@@ -52,11 +52,11 @@ to know how to build the webpage. Example of these tags include</p>
 
 <p>Having no previous experience with any of these resources before this class has made this first assignment
 both difficult and rewarding. It was difficult because it took me a while to fully explore and understand
-the power that these resources such as git held and how I could use them. But it was also rewarding in that
-when I put in time trying to figure out just how to make something work, such as adding a picture to my post, 
-I gain a sense of satisfaction once I finally get it to work. I have enjoyed working with this code up to this 
-point and I look forward to moving forward.</p>
+the power that these resources, such as git, held and how I could use them. But it was also rewarding in that
+once I put in the time trying to figure out how to make something work, such as adding a picture to my post, 
+I gained a sense of satisfaction once it finally worked. I have greatly enjoyed learned to basics to web developmet
+so far and I look forward to learning more as we progress.</p>
 
-<p>A way that I would test my html code while fiddling around with it was with this tester.</p>
+<p>To test any of the HTML examples I have made above, I have included a HTML tester below.</p>
 
-<iframe src="/assets/HTML tester.html" height="500" width="400"></iframe>
+<iframe src="/assets/HTML tester.html" height="200" width="400"></iframe>
