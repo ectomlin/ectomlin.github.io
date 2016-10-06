@@ -7,7 +7,6 @@ author: "Eric Tomlinson"
 excerpt_separator: <!--more-->
 ---
 
-<img src="/assets/Req.jpg" alt="Requirments" style="width:100;heigh:100;">
 
 <p> Since I first began IDST 161 I have come a long way from where I began. However, seeing as
 I started with no coding experience at all any progress is positive. Since I first began 
@@ -61,3 +60,6 @@ so far and I look forward to learning more as we progress.</p>
 <p>To test any of the HTML examples I have made above, I have included a HTML tester below.</p>
 
 <iframe src="/assets/HTML tester.html" height="200" width="400"></iframe>
+
+<p>To check off any requirments for this assignment I have attached an image of the requirments.<p>
+<img src="/assets/Req.jpg" alt="Requirments" style="width:100;heigh:100;">
