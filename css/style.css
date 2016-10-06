@@ -426,7 +426,8 @@ pre {
   font-size: 35px;
   text-align: center;
   font-family: "PT Sans";
-  font-weight: 900; }
+  font-weight: 900; 
+  padding-top: 10px; }
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 36px; } }
