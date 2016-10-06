@@ -61,5 +61,5 @@ so far and I look forward to learning more as we progress.</p>
 
 <iframe src="/assets/HTML tester.html" height="200" width="400"></iframe>
 
-<p>To check off any requirments for this assignment I have attached an image of the requirments.<p>
-<img src="/assets/Req.jpg" alt="Requirments" style="width:100;heigh:100;">
+<p>To check off any requirements for this assignment I have attached an image of the requirements.<p>
+<img src="/assets/Req.jpg" alt="requirements" style="width:100;heigh:100;">

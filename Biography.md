@@ -4,8 +4,6 @@ title : Biography
 permalink: /Biography/
 ---
 
-<img src="/assets/Req.jpg" alt="Requirments" style="width:300;heigh:300;">
-
 <h1><strong>Biograhy</strong></h1>
 <body>
 
